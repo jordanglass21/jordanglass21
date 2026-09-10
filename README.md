@@ -26,4 +26,4 @@ A grocery list web app that turns recipes into shopping lists, sorts items by su
 
 Data access is enforced with row-level security at the database, not just in app code. Data logic lives in custom hooks, keeping components presentational. Schema is version-controlled through Supabase migrations.
 
-<img width="1426" height="1622" alt="image" src="https://github.com/user-attachments/assets/32dcb036-bfbf-4c32-9b7a-50970ee7bae9" />
+<img width="656" height="817" alt="Screenshot 2026-09-09 at 5 07 16 PM" src="https://github.com/user-attachments/assets/7356b9ef-eb6b-484f-a33a-5107cff99573" />
