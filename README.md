@@ -5,7 +5,11 @@ and put this in as README.md. Swap in your name/links below.
 
 ### Jordan Glass
 
-[LinkedIn](https://linkedin.com/in/jordanglass) · [your@email.com](mailto:your@email.com)
+[LinkedIn](https://linkedin.com/in/jordan-glass-one) · [jordanglass421@gmail.com](mailto:jordanglass421@gmail.com)
+
+Backend engineer with production experience shipping TypeScript/NestJS services and APIs. Before software, I ran operations for a business — I like building things people actually use and that make their life a little easier.
+
+More projects coming soon.
 
 ---
 
