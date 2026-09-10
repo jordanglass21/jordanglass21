@@ -7,9 +7,7 @@ and put this in as README.md. Swap in your name/links below.
 
 [LinkedIn](https://linkedin.com/in/jordan-glass-one) · [jordanglass421@gmail.com](mailto:jordanglass421@gmail.com)
 
-Backend engineer with production experience shipping TypeScript/NestJS services and APIs. Before software, I ran operations for a business — I like building things people actually use and that make their life a little easier.
-
-More projects coming soon.
+Backend engineer with production experience shipping TypeScript/NestJS services and APIs. Before software, I ran operations for a business. I like building things people actually use and that make their life a little easier.
 
 ---
 
@@ -27,3 +25,5 @@ A grocery list web app that turns recipes into shopping lists, sorts items by su
 **Stack:** Next.js · TypeScript · Tailwind · Supabase (Postgres, RLS) · Vercel
 
 Data access is enforced with row-level security at the database, not just in app code. Data logic lives in custom hooks, keeping components presentational. Schema is version-controlled through Supabase migrations.
+
+<img width="1426" height="1622" alt="image" src="https://github.com/user-attachments/assets/32dcb036-bfbf-4c32-9b7a-50970ee7bae9" />
